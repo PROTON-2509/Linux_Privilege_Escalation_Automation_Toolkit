@@ -1,1 +1,0 @@
-# Linux-Privilege-Escalation-Automation-toolkit
