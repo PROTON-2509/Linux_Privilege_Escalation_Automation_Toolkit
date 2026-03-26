@@ -77,7 +77,6 @@ Unauthorized use against systems without permission is illegal.
 ### AUTHOR
 
 Krishna Tambare  
-B.Tech Computer Science Engineering
 
 ### LICENSE
 This project is intended for educational use and cybersecurity learning.
